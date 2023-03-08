@@ -20,8 +20,8 @@ used at least once
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # Portfolio
-* [Unity_FlappyBird](https://github.com/seok6555/Unity_FlappyBird, "유니티 포트폴리오 FlappyBird")
-* [Unity_MazeEscape](https://github.com/seok6555/Unity_MazeEscape, "유니티 포트폴리오 MazeEscape")
+* [Unity_FlappyBird](https://github.com/seok6555/Unity_FlappyBird "유니티 포트폴리오 FlappyBird")
+* [Unity_MazeEscape](https://github.com/seok6555/Unity_MazeEscape "유니티 포트폴리오 MazeEscape")
 
 # Hits
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseok6555&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
