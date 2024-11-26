@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:BEF781,100:01DF3A&height=300&section=header&text=Welcome&fontSize=90&desc=SeokGeunHo's%20Github&descAlign=65)
 
 # SEOK GEUN HO
-안녕하세요. 게임 클라이언트 프로그래머를 지망하는 석근호 입니다.
+안녕하세요. 프로그래머를 지망하는 석근호 입니다.
 
 # Email
 seok6555@naver.com
