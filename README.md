@@ -5,6 +5,7 @@
 
 # Email
 seok6555@naver.com
+kimc6555@gmail.com
 
 # Tech Stack
 used as the main
