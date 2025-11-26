@@ -35,3 +35,5 @@ used at least once
 * [Unity_MazeEscape](https://github.com/seok6555/Unity_MazeEscape "유니티 포트폴리오 MazeEscape")
 * [Django_Insta_Crawling_API](https://github.com/seok6555/Django_Insta_Crawling_API "인스타 크롤링 API")
 * [Capstone_CampusWorkLife](https://github.com/seok6555/Capstone_CampusWorkLife "캡스톤 디자인 근로생활")
+* [DevMatch - AI 기반 개발팀 매칭 플랫폼](https://github.com/prgrms-be-devcourse/NBE6-8-2-Team08 "프로그래머스 데브코스 데브매치")
+* [Ssoul - 칵테일 레시피 공유 플랫폼](https://github.com/prgrms-web-devcourse-final-project/WEB6_8_HaeDokCoding_BE "프로그래머스 데브코스 쏘울")
